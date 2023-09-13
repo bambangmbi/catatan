@@ -1,1 +1,4 @@
-
+1. Mempelajari Git
+2. Memperbaiki Web Rs3mplus.com
+3. Memperbaiki web karyawanrs3mplus.com
+4. menyelesaikan jurnal revisi
